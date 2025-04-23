@@ -112,5 +112,4 @@ This ASR system for Telugu is powered by **Wav2Vec2.0** and **Whisper**, two of 
 Feel free to modify and improve the system as needed. Contributions, suggestions, and feedback are always welcome!
 
 ### Instructions:
-- Replace `your_username` in the `git clone` command with your GitHub username.
 - Ensure that the path to the `.wav` file in the `audio_path` variable is correct when running the script.
